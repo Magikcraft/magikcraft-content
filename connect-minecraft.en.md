@@ -1,4 +1,4 @@
-# Connect Your Minecraft Account.
+# Connect Your Minecraft Account
 
 1. You need a [Minecraft.net](www.minecraft.net) account to use Magikcraft. 
 
