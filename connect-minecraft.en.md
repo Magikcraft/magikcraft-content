@@ -3,8 +3,11 @@
 1. You need a [Minecraft.net](www.minecraft.net) account to use Magikcraft. 
 
 2. Magikcraft servers use Minecraft version 1.11.2, so set up a profile for that version of Minecraft if you are not using the Magikcraft launcher. 
-  * a. Here is a video on [how to do this with the standard Minecraft launcher](https://www.youtube.com/watch?v=qNOhVx9A74U)
-  * b. To download the Magikcraft launcher, visit [client.magikcraft.io](client.magikcraft.io).
+
+  * Here is a video on [how to do this with the standard Minecraft launcher](https://www.youtube.com/watch?v=6L2dOeYA1e8)
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6L2dOeYA1e8?rel=0" frameborder="0" allowfullscreen></iframe>
+  
+  * To download the Magikcraft launcher, visit [client.magikcraft.io](client.magikcraft.io).
 
 3. Launch Minecraft, and connect to the Magikcraft server at play.magikcraft.io. 
 
