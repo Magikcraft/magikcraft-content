@@ -14,4 +14,3 @@
 
 6. Choose 'Yes', and open the link in your browser.
 
-7. You must open the link in the same browser where you are logged in to your spellbook. 
