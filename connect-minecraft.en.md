@@ -1,6 +1,6 @@
 # Connect to Minecraft
 
-<img src="https://github.com/Magikcraft/magikcraft-content/blob/master/assets/images/connect-to-magikcraft%20(1).gif?raw=true" alt="Connect to magikcraft.io" width="400"/> 
+<img src="https://github.com/Magikcraft/magikcraft-content/blob/master/assets/images/connect-to-magikcraft%20(1).gif?raw=true" alt="Connect to magikcraft.io" width="500"/> 
 
 1. You need a [Minecraft.net](www.minecraft.net) account to use Magikcraft. 
 
