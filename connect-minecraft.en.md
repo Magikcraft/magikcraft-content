@@ -4,7 +4,7 @@
 
 1. You need a [Minecraft.net](www.minecraft.net) account to use Magikcraft. 
 
-2. Magikcraft servers use Minecraft version 1.12.2, so set up a profile for that version of Minecraft. 
+2. Magikcraft servers use Minecraft version 1.13.2, so set up a profile for that version of Minecraft. 
 
   * Here is a video on [how to do this with the standard Minecraft launcher](https://www.youtube.com/watch?v=OZZlLqkapk0)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/6L2dOeYA1e8?rel=0" frameborder="0" allowfullscreen></iframe>
